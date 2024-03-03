@@ -8,3 +8,5 @@ determining the market price of a house to offer investors by using attributes o
 3. Exploratory Data Analysis
 4. Model Development
 5. Model Evaluation and Refinement
+# Code
+https://github.com/potzaz007/House-Sales-in-King-County-USA/blob/main/Project%20House_Sales_IN_USA/House_Sales_in_King_Count_USA.ipynb
